@@ -1,52 +1,102 @@
-# 当前热榜：2020.01.04.00.38.01
+# 当前热榜：2020.01.04.01.05.06
 ## (测试中，目前尚未定期记录)
 1. [如何看待首个国产 HPV 疫苗获批上市，定价 329 元一支？](https://www.zhihu.com/question/364411856)
+  * 关注：1051, 回答：108
 2. [医学生能硬核到什么程度?](https://www.zhihu.com/question/356826703)
+  * 关注：11400, 回答：1108
 3. [如何看待长江所专家正式宣告，「中国淡水鱼之王」长江白鲟已于 2005-2010 年间灭绝？](https://www.zhihu.com/question/364374536)
+  * 关注：2132, 回答：547
 4. [进厂打工真的太累太崩溃了，或者是不是我太矫情了？](https://www.zhihu.com/question/345387686)
+  * 关注：3225, 回答：777
 5. [关于山东，有哪些刻板印象其实是误解？](https://www.zhihu.com/question/364228432)
+  * 关注：2374, 回答：796
 6. [撩妹失败是怎样的一种体验？](https://www.zhihu.com/question/41644521)
+  * 关注：1993, 回答：282
 7. [女儿洗澡被爸爸撞见，爸爸还觉得无所谓。我要怎么缓解崩溃情绪？](https://www.zhihu.com/question/305017504)
+  * 关注：1145, 回答：542
 8. [好看清晰的自拍是怎么拍出来的？](https://www.zhihu.com/question/267598322)
+  * 关注：20356, 回答：1063
 9. [中专、大专真的有那么不堪吗？](https://www.zhihu.com/question/301770801)
-10. [如何评价B站举办的2020跨年晚会？](https://www.zhihu.com/question/360070639)
-11. [人到底是长成前置摄像头还是后置摄像头还是镜子里的样子？](https://www.zhihu.com/question/66063294)
+  * 关注：15676, 回答：4439
+10. [人到底是长成前置摄像头还是后置摄像头还是镜子里的样子？](https://www.zhihu.com/question/66063294)
+  * 关注：3378, 回答：400
+11. [如何评价B站举办的2020跨年晚会？](https://www.zhihu.com/question/360070639)
+  * 关注：682, 回答：186
 12. [给不太熟的人当伴娘是什么体验？](https://www.zhihu.com/question/35331322)
-13. [贴吧为什么禁止「挖坟」？](https://www.zhihu.com/question/31737939)
-14. [孩子3岁打算带他去环游中国一年，而不是入幼儿园，值得吗？](https://www.zhihu.com/question/338107055)
-15. [吸血鬼为何怕阳光？](https://www.zhihu.com/question/35124751)
-16. [男生留长发是何体验？](https://www.zhihu.com/question/60044759)
-17. [哪位年轻演员有希望在文艺片里闯出一片天？](https://www.zhihu.com/question/352112413)
-18. [电影《美丽人生》4K修复版内地重映，看完后你有什么感受？](https://www.zhihu.com/question/362705119)
-19. [有哪些看起来热量不高，实际却热量很高的食物？](https://www.zhihu.com/question/357240035)
-20. [如何看待华晨宇参加《歌手·当打之年》？](https://www.zhihu.com/question/364137040)
-21. [有哪些极简主义的头像值得分享？](https://www.zhihu.com/question/29173647)
-22. [如何评价综艺《明星大侦探 第五季》08 案「X学校“杀人”事件（上）（下）」？](https://www.zhihu.com/question/364408400)
+  * 关注：406, 回答：125
+13. [男生留长发是何体验？](https://www.zhihu.com/question/60044759)
+  * 关注：10527, 回答：2069
+14. [哪位年轻演员有希望在文艺片里闯出一片天？](https://www.zhihu.com/question/352112413)
+  * 关注：291, 回答：90
+15. [如何看待华晨宇参加《歌手·当打之年》？](https://www.zhihu.com/question/364137040)
+  * 关注：71, 回答：50
+16. [有哪些极简主义的头像值得分享？](https://www.zhihu.com/question/29173647)
+  * 关注：112013, 回答：3463
+17. [贴吧为什么禁止「挖坟」？](https://www.zhihu.com/question/31737939)
+  * 关注：575, 回答：168
+18. [孩子3岁打算带他去环游中国一年，而不是入幼儿园，值得吗？](https://www.zhihu.com/question/338107055)
+  * 关注：1387, 回答：542
+19. [如何评价综艺《明星大侦探 第五季》08 案「X学校“杀人”事件（上）（下）」？](https://www.zhihu.com/question/364408400)
+  * 关注：266, 回答：203
+20. [有哪些看起来热量不高，实际却热量很高的食物？](https://www.zhihu.com/question/357240035)
+  * 关注：5579, 回答：295
+21. [吸血鬼为何怕阳光？](https://www.zhihu.com/question/35124751)
+  * 关注：378, 回答：54
+22. [电影《美丽人生》4K修复版内地重映，看完后你有什么感受？](https://www.zhihu.com/question/362705119)
+  * 关注：969, 回答：234
 23. [如何看待药监局正式发布的「不存在所谓的械字号面膜」？「医美面膜」到底合不合法？](https://www.zhihu.com/question/364373508)
-24. [如何评价 1 月 2 日正式发布的戴尔 2020 款 XPS 13 笔记本？有什么亮点和不足？](https://www.zhihu.com/question/364385083)
-25. [如何评价新规「非寄宿制中小学不得设食品小卖部」？会对校园和中小学生造成什么影响？](https://www.zhihu.com/question/363814347)
-26. [为什么隋唐四个皇帝都要征伐高句丽？](https://www.zhihu.com/question/20678173)
-27. [杜峰和曾繁日将在 2020 全明星赛上单挑，你有什么想说的？](https://www.zhihu.com/question/364458556)
-28. [有什么人生必看书籍?](https://www.zhihu.com/question/323151892)
-29. [90后的你现在拥有多少存款？](https://www.zhihu.com/question/294492829)
-30. [有哪些热闹有趣、好玩不贵适合全家人过年玩耍的小玩意？](https://www.zhihu.com/question/364278991)
-31. [历史上有哪些真实的祸从口出的事件？](https://www.zhihu.com/question/36994899)
-32. [作为LOL萌新，应该首先入手什么英雄？](https://www.zhihu.com/question/349534277)
-33. [章子怡宣布二胎生子，你有什么想说的？](https://www.zhihu.com/question/364437425)
+  * 关注：498, 回答：31
+24. [世界上有哪些著名的好看雕塑？](https://www.zhihu.com/question/51360968)
+  * 关注：2319, 回答：93
+25. [为什么隋唐四个皇帝都要征伐高句丽？](https://www.zhihu.com/question/20678173)
+  * 关注：1384, 回答：89
+26. [如何评价 1 月 2 日正式发布的戴尔 2020 款 XPS 13 笔记本？有什么亮点和不足？](https://www.zhihu.com/question/364385083)
+  * 关注：328, 回答：31
+27. [90后的你现在拥有多少存款？](https://www.zhihu.com/question/294492829)
+  * 关注：38421, 回答：13483
+28. [如何评价新规「非寄宿制中小学不得设食品小卖部」？会对校园和中小学生造成什么影响？](https://www.zhihu.com/question/363814347)
+  * 关注：348, 回答：128
+29. [有什么人生必看书籍?](https://www.zhihu.com/question/323151892)
+  * 关注：18409, 回答：686
+30. [杜峰和曾繁日将在 2020 全明星赛上单挑，你有什么想说的？](https://www.zhihu.com/question/364458556)
+  * 关注：160, 回答：62
+31. [有哪些热闹有趣、好玩不贵适合全家人过年玩耍的小玩意？](https://www.zhihu.com/question/364278991)
+  * 关注：1523, 回答：59
+32. [历史上有哪些真实的祸从口出的事件？](https://www.zhihu.com/question/36994899)
+  * 关注：2168, 回答：282
+33. [作为LOL萌新，应该首先入手什么英雄？](https://www.zhihu.com/question/349534277)
+  * 关注：718, 回答：449
 34. [如何在一个月之内通过公务员省考？](https://www.zhihu.com/question/57173410)
-35. [人社部称「年假不休能要经济补偿」，实际工作中可操作性如何？](https://www.zhihu.com/question/364410154)
+  * 关注：12604, 回答：277
+35. [章子怡宣布二胎生子，你有什么想说的？](https://www.zhihu.com/question/364437425)
+  * 关注：148, 回答：100
 36. [如何评价最高法关于大学生借校园贷不还，不纳入失信名单的新闻？](https://www.zhihu.com/question/364246107)
-37. [为什么 CSS 这么难学？](https://www.zhihu.com/question/66167982)
+  * 关注：224, 回答：77
+37. [人社部称「年假不休能要经济补偿」，实际工作中可操作性如何？](https://www.zhihu.com/question/364410154)
+  * 关注：373, 回答：115
 38. [哪个瞬间让你觉得「山东还不错」？](https://www.zhihu.com/question/359217143)
-39. [本科 GPA 对考研复试影响有多大，如何弥补 GPA 短板？](https://www.zhihu.com/question/364400214)
-40. [《王者荣耀》什么样的玩家才叫有天赋？](https://www.zhihu.com/question/361860154)
-41. [为何虹桥枢纽之后再无“虹桥枢纽”？](https://www.zhihu.com/question/51229640)
-42. [穿越是一种怎样的体验？](https://www.zhihu.com/question/30676575)
-43. [如何评价综艺《奇葩说 第六季》第十九期？](https://www.zhihu.com/question/364278586)
-44. [论文的外文翻译在哪个网站找靠谱？](https://www.zhihu.com/question/43852313)
-45. [凯迪拉克的车到底值不值得买？](https://www.zhihu.com/question/317787638)
-46. [老婆怀孕，作为老公的你是怎么撑过来的？](https://www.zhihu.com/question/306777113)
+  * 关注：2684, 回答：1639
+39. [为什么 CSS 这么难学？](https://www.zhihu.com/question/66167982)
+  * 关注：2985, 回答：153
+40. [本科 GPA 对考研复试影响有多大，如何弥补 GPA 短板？](https://www.zhihu.com/question/364400214)
+  * 关注：551, 回答：38
+41. [19岁，现在出海还有当海贼王的希望吗？](https://www.zhihu.com/question/363169587)
+  * 关注：98, 回答：77
+42. [《王者荣耀》什么样的玩家才叫有天赋？](https://www.zhihu.com/question/361860154)
+  * 关注：225, 回答：106
+43. [为何虹桥枢纽之后再无“虹桥枢纽”？](https://www.zhihu.com/question/51229640)
+  * 关注：156, 回答：30
+44. [穿越是一种怎样的体验？](https://www.zhihu.com/question/30676575)
+  * 关注：117, 回答：37
+45. [论文的外文翻译在哪个网站找靠谱？](https://www.zhihu.com/question/43852313)
+  * 关注：709, 回答：33
+46. [凯迪拉克的车到底值不值得买？](https://www.zhihu.com/question/317787638)
+  * 关注：553, 回答：167
 47. [程序员下午5点半下班时是什么感觉？](https://www.zhihu.com/question/363155907)
-48. [能否使用神经网络来判断奇偶数？](https://www.zhihu.com/question/364113452)
-49. [把某人 DNA 序列作为输入，某人的正面照片作为输出，丢到深度神经网络里面学习，能 work 吗？](https://www.zhihu.com/question/363503176)
-50. [有哪些冷门但是涂上就惊艳不已的口红？](https://www.zhihu.com/question/271642424)
+  * 关注：99, 回答：70
+48. [如何评价综艺《奇葩说 第六季》第十九期？](https://www.zhihu.com/question/364278586)
+  * 关注：213, 回答：135
+49. [老婆怀孕，作为老公的你是怎么撑过来的？](https://www.zhihu.com/question/306777113)
+  * 关注：11731, 回答：968
+50. [能否使用神经网络来判断奇偶数？](https://www.zhihu.com/question/364113452)
+  * 关注：514, 回答：42
