@@ -1,4 +1,4 @@
-# 当前热榜：2020.01.04.00.34.55
+# 当前热榜：2020.01.04.00.38.01
 ## (测试中，目前尚未定期记录)
 1. [如何看待首个国产 HPV 疫苗获批上市，定价 329 元一支？](https://www.zhihu.com/question/364411856)
 2. [医学生能硬核到什么程度?](https://www.zhihu.com/question/356826703)
@@ -28,8 +28,8 @@
 26. [为什么隋唐四个皇帝都要征伐高句丽？](https://www.zhihu.com/question/20678173)
 27. [杜峰和曾繁日将在 2020 全明星赛上单挑，你有什么想说的？](https://www.zhihu.com/question/364458556)
 28. [有什么人生必看书籍?](https://www.zhihu.com/question/323151892)
-29. [有哪些热闹有趣、好玩不贵适合全家人过年玩耍的小玩意？](https://www.zhihu.com/question/364278991)
-30. [90后的你现在拥有多少存款？](https://www.zhihu.com/question/294492829)
+29. [90后的你现在拥有多少存款？](https://www.zhihu.com/question/294492829)
+30. [有哪些热闹有趣、好玩不贵适合全家人过年玩耍的小玩意？](https://www.zhihu.com/question/364278991)
 31. [历史上有哪些真实的祸从口出的事件？](https://www.zhihu.com/question/36994899)
 32. [作为LOL萌新，应该首先入手什么英雄？](https://www.zhihu.com/question/349534277)
 33. [章子怡宣布二胎生子，你有什么想说的？](https://www.zhihu.com/question/364437425)
